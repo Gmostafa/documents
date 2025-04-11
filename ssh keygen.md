@@ -64,7 +64,7 @@ vim ~/.ssh/authorized_keys
 ```  
 
 
-copy past my public-keys 
+copy past my public-keys (stating & production) 
 
 ```bash
 
